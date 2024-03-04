@@ -1,0 +1,5 @@
+# Example project files
+auto_light_sleep/build/
+module/__pycache__/
+results/
+ipynb/.ipynb_checkpoints/
